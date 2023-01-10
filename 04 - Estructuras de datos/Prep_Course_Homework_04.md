@@ -1,14 +1,20 @@
 ## Estructuras de Datos
 
 1) Crear una lista que contenga nombres de ciudades del mundo que contenga más de 5 elementos e imprimir por pantalla
+Lista= ['Colombia', 'Peru']
+Print(Lista)
 
 2) Imprimir por pantalla el segundo elemento de la lista
+Print(lista[1])
 
 3) Imprimir por pantalla del segundo al cuarto elemento
+Prin(Lista[1:5])
 
 4) Visualizar el tipo de dato de la lista
+Print(type(Lista))
 
 5) Visualizar todos los elementos de la lista a partir del tercero de manera genérica, es decir, sin explicitar la posición del último elemento
+Print(Lista[2:])
 
 6) Visualizar los primeros 4 elementos de la lista
 
